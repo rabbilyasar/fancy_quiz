@@ -1,7 +1,7 @@
 <template>
   <div id="questio">
     <div>
-      <b-jumbotron header="BootstrapVue" lead="Bootstrap v4 Components for Vue.js 2">
+      <b-jumbotron header="" lead="">
         <template v-slot:lead>{{currentQuestion.question}}</template>
 
         <hr class="my-4" />
